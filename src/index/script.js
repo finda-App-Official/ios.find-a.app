@@ -1,6 +1,5 @@
 window.onload = () => {
   setTimeout(() => {
-    window.location.href =
-      "https://whatsapp.com/channel/0029VaCUqArLCoWtu7qF1I18";
+    window.location.href = "https://apps.apple.com/de/app/finda/id6466799337";
   }, 1000);
 };
